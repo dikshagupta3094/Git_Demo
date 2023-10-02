@@ -1,2 +1,2 @@
 # Git_Demo
-# Learning Git and github from shradha Kahapara
+# Learning Git and github from shradha didi
